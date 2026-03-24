@@ -60,10 +60,4 @@ Our aim - analyze **access to green, cultural spaces and academic, health establ
 
 ---
 
-## Team Coordination
-
-- Use **GitHub** for version control (create issues for each milestone).
-- Store raw data in `/data/raw`, processed in `/data/processed`.
-- Document everything in `README.md` and `docs/`.
-
 ---
